@@ -1,6 +1,6 @@
 {
   "name": "any-db-mysql-fork-publish",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "The MySQL adapter for any-db",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,6 @@
   "license": "MIT",
   "dependencies": {
     "mysql": "2.14.0",
-    "anydb-sql-migrations-fork-publish": "^2.4.4",
     "inherits": "2.0.1"
   },
   "peerDependencies": {
